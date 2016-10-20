@@ -15,7 +15,7 @@ import android.widget.TextView;
 import com.squareup.picasso.Picasso;
 
 import java.io.InputStream;
-//test
+//test j
 public class ImageAdapter extends BaseAdapter
 {
     private Context context;
